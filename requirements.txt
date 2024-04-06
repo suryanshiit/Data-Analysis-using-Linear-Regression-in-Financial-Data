@@ -1,0 +1,9 @@
+fastapi uvicorn jinja2 aiofiles
+mplfinance
+datetime
+requests
+matplotlib
+numpy
+scikit-learn
+concurrent
+python-multipart
