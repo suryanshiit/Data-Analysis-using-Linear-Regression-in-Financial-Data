@@ -20,7 +20,7 @@ The Requirements are available in requirements.txt
 
 Enter the following command to start thr program.
 
-python -u "c:\Users\ANANYA\Documents\Python Scripts\main - Copy.py"
+python -u "main.py"
 
 Enter the Name of CrytoCurrency (Symbol) and Duration of Analysis in Webpage
 
