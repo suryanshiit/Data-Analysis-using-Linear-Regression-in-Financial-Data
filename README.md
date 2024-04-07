@@ -1,4 +1,4 @@
-✤ Trendline Generation
+✤ Data Analysis using Linear Regression in Financial Data
 
 · Overview: Implemented linear regression to create resistance and support trendlines for Financial Time Series Data
 
