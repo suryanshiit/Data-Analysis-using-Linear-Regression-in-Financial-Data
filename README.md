@@ -1,3 +1,5 @@
+✤ Trendline Generation
+
 · Overview: Implemented linear regression to create resistance and support trendlines for Financial Time Series Data
 
 · Utilized linear regression to generate regression lines, identifying pivot points using accuracy-based approach
