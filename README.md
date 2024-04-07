@@ -21,7 +21,8 @@ The Requirements are available in requirements.txt
 Enter the Name of CrytoCurrency (Symbol) and Duration of Analysis in Webpage
 
 -- Example has been provided for reference
-![image](sample input.png)
+
+![image](./sample_input.png)
 
 Now Run the Data_Analysis_using_Linear_Regression.ipynb
 
