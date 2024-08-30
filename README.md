@@ -1,5 +1,7 @@
 ✤ Data Analysis using Linear Regression in Financial Data
 
+· Deployed Link - https://huggingface.co/spaces/suryanshs16103/Data-Analysis-using-Linear-Regression-in-Financial-Data
+
 · Overview: Implemented linear regression to create resistance and support trendlines for Financial Time Series Data
 
 · Utilized linear regression to generate regression lines, identifying pivot points using accuracy-based approach
